@@ -15,7 +15,7 @@ Unduh XAMPP dari https://www.apachefriends.org/download.html dan pilih versi por
 2. *Menjalankan Web Server*
 Untuk menjalankan web server dari menu XAMPP Control.
 
-![image](https://github.com/ZahraNurhaliza/Lab6Web/blob/main/screenshot/ss.1.png)
+![image](https://github.com/ZahraNurhaliza/Lab7Web/blob/main/screenshot/ss.1.png)
 
 • Uji coba apakah server sudah berkerja dengan baik
 http://127.0.0.1 atau http://localhost
@@ -29,12 +29,12 @@ Manajemen database: http://localhost/phpmyadmin
 3. *Memulai PHP*
 Buat folder lab7_php_dasar pada root directory web server (d:\xampp\htdocs)
 
-![image](https://github.com/ZahraNurhaliza/Lab6Web/blob/main/screenshot/ss.2.png)
+![image](https://github.com/ZahraNurhaliza/Lab7Web/blob/main/screenshot/ss.2.png)
 
 Kemudian untuk mengakses direktory tersebut pada web server dengan mengakses URL:
 http://localhost/lab7_php_dasar/
 
-![image](https://github.com/ZahraNurhaliza/Lab6Web/blob/main/screenshot/ss.3.png)
+![image](https://github.com/ZahraNurhaliza/Lab7Web/blob/main/screenshot/ss.3.png)
 
 
 ### 1. PHP Dasar
@@ -59,7 +59,7 @@ Kemudian untuk mengakses hasilnya melalui URL:
 http://localhost/lab7_php_dasar/php_dasar.php
 
 Output
-![image](https://github.com/ZahraNurhaliza/Lab6Web/blob/main/screenshot/ss.4.png)
+![image](https://github.com/ZahraNurhaliza/Lab7Web/blob/main/screenshot/ss.4.png)
 
 
 ### 2. Variable PHP
@@ -91,7 +91,7 @@ Kemudian untuk mengakses hasilnya melalui URL:
 http://localhost/lab7_php_dasar/php_dasar.php
 
 Output
-![image](https://github.com/ZahraNurhaliza/Lab6Web/blob/main/screenshot/ss.5.png)
+![image](https://github.com/ZahraNurhaliza/Lab7Web/blob/main/screenshot/ss.5.png)
 
 
 ### 3. Predefine Variable $_GET
@@ -114,7 +114,7 @@ Untuk mengaksesnya gunakan URL:
 http://localhost/lab7_php_dasar/latihan2.php?nama=Zahra
 
 Output
-![image](https://github.com/ZahraNurhaliza/Lab6Web/blob/main/screenshot/ss.6.png)
+![image](https://github.com/ZahraNurhaliza/Lab7Web/blob/main/screenshot/ss.6.png)
 
 
 ### 4. Membuat Form Input
@@ -139,7 +139,7 @@ echo 'Selamat Datang ' . $_POST['nama'];
 </html>
 ```
 Output
-![image](https://github.com/ZahraNurhaliza/Lab6Web/blob/main/screenshot/ss.7.png)
+![image](https://github.com/ZahraNurhaliza/Lab7Web/blob/main/screenshot/ss.7.png)
 
 
 ### 5. Operator
@@ -163,7 +163,7 @@ Output
 </html>
 ```
 Output
-![image](https://github.com/ZahraNurhaliza/Lab6Web/blob/main/screenshot/ss.8.png)
+![image](https://github.com/ZahraNurhaliza/Lab7Web/blob/main/screenshot/ss.8.png)
 
 
 ### 6. Kondisi IF
@@ -190,7 +190,7 @@ Output
 </html>
 ```
 Output
-![image](https://github.com/ZahraNurhaliza/Lab6Web/blob/main/screenshot/ss.9.png)
+![image](https://github.com/ZahraNurhaliza/Lab7Web/blob/main/screenshot/ss.9.png)
 
 
 ### 7. Kondisi Switch
@@ -223,7 +223,7 @@ Output
 </html>
 ```
 Output
-![image](https://github.com/ZahraNurhaliza/Lab6Web/blob/main/screenshot/ss.10.png)
+![image](https://github.com/ZahraNurhaliza/Lab7Web/blob/main/screenshot/ss.10.png)
 
 
 ### 8. Perulangan for
@@ -250,7 +250,7 @@ Output
 </html>
 ```
 Output
-![image](https://github.com/ZahraNurhaliza/Lab6Web/blob/main/screenshot/ss.11.png)
+![image](https://github.com/ZahraNurhaliza/Lab7Web/blob/main/screenshot/ss.11.png)
 
 
 ### 9. Perulangan while
@@ -275,7 +275,7 @@ Output
 </html>
 ```
 Output
-![image](https://github.com/ZahraNurhaliza/Lab6Web/blob/main/screenshot/ss.12.png)
+![image](https://github.com/ZahraNurhaliza/Lab7Web/blob/main/screenshot/ss.12.png)
 
 
 ### 10. Perulangan dowhile
@@ -300,7 +300,7 @@ Output
 </html>
 ```
 Output
-![image](https://github.com/ZahraNurhaliza/Lab6Web/blob/main/screenshot/ss.13.png)
+![image](https://github.com/ZahraNurhaliza/Lab7Web/blob/main/screenshot/ss.13.png)
 
 
 
@@ -311,7 +311,7 @@ umur berdasarkan inputan tanggal lahir. Dan pilihan pekerjaan dengan gaji yang
 berbeda-beda sesuai pilihan pekerjaan.
 
 Output
-![image](https://github.com/ZahraNurhaliza/Lab6Web/blob/main/screenshot/ss.14.png)
-![image](https://github.com/ZahraNurhaliza/Lab6Web/blob/main/screenshot/ss.15.png)
+![image](https://github.com/ZahraNurhaliza/Lab7Web/blob/main/screenshot/ss.14.png)
+![image](https://github.com/ZahraNurhaliza/Lab7Web/blob/main/screenshot/ss.15.png)
 
 # SELESAI
